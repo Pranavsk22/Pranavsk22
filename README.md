@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development,and quite recently App Development
 - 🌱 I’m currently learning React, React Native and Java
 - 💞️ I’m looking to collaborate on Hackathons and Research Projects
-- 📫 How to reach me mail me @ skpranav22.7@gmail.com
+- 📫 How to reach me : mail me @ skpranav22.7@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I never used to like ice cream until I was 15
 
