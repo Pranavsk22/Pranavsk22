@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pranavsk22
+- 👋 Hi, I’m Pranav
 - 👀 I’m interested in Full Stack Development,and quite recently App Development
 - 🌱 I’m currently learning React, React Native and Java
 - 💞️ I’m looking to collaborate on Hackathons and Research Projects
